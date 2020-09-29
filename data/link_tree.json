@@ -1,0 +1,72 @@
+{
+    "Fruits & Vegetables": {
+        "root": "https://www.bigbasket.com/cl/fruits-vegetables/?nc=nb"
+    },
+    "Foodgrains, Oil & Masala": {
+        "root": "https://www.bigbasket.com/cl/foodgrains-oil-masala/?nc=nb",
+        "Atta, Flours & Sooji (250)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/",
+        "Dals & Pulses (261)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dals-pulses/",
+        "Dry Fruits (384)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/",
+        "Edible Oils & Ghee (348)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/",
+        "Masalas & Spices (840)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/",
+        "Organic Staples (620)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/organic-staples/",
+        "Rice & Rice Products (289)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/",
+        "Salt, Sugar & Jaggery (126)": "https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+    },
+    "Bakery, Cakes & Dairy": {
+        "root": "https://www.bigbasket.com/cl/bakery-cakes-dairy/?nc=nb",
+        "Bakery Snacks (17)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/bakery-snacks/",
+        "Breads & Buns (23)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/breads-buns/",
+        "Cakes & Pastries (57)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/",
+        "Cookies, Rusk & Khari (109)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/cookies-rusk-khari/",
+        "Dairy (656)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/",
+        "Gourmet Breads (14)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/gourmet-breads/",
+        "Ice Creams & Desserts (134)": "https://www.bigbasket.com/pc/bakery-cakes-dairy/ice-creams-desserts/"
+    },
+    "Beverages": {
+        "root": "https://www.bigbasket.com/cl/beverages/?nc=nb"
+    },
+    "Snacks & Branded Foods": {
+        "root": "https://www.bigbasket.com/cl/snacks-branded-foods/?nc=nb",
+        "Biscuits & Cookies (551)": "https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/",
+        "Breakfast Cereals (406)": "https://www.bigbasket.com/pc/snacks-branded-foods/breakfast-cereals/",
+        "Chocolates & Candies (408)": "https://www.bigbasket.com/pc/snacks-branded-foods/chocolates-candies/",
+        "Frozen Veggies & Snacks (178)": "https://www.bigbasket.com/pc/snacks-branded-foods/frozen-veggies-snacks/",
+        "Indian Mithai (54)": "https://www.bigbasket.com/pc/snacks-branded-foods/indian-mithai/",
+        "Noodle, Pasta, Vermicelli (243)": "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/",
+        "Pickles & Chutney (121)": "https://www.bigbasket.com/pc/snacks-branded-foods/pickles-chutney/",
+        "Ready To Cook & Eat (537)": "https://www.bigbasket.com/pc/snacks-branded-foods/ready-to-cook-eat/",
+        "Snacks & Namkeen (850)": "https://www.bigbasket.com/pc/snacks-branded-foods/snacks-namkeen/",
+        "Spreads, Sauces, Ketchup (466)": "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/"
+    },
+    "Beauty & Hygiene": {
+        "root": "https://www.bigbasket.com/cl/beauty-hygiene/?nc=nb",
+        "Bath & Hand Wash (850)": "https://www.bigbasket.com/pc/beauty-hygiene/bath-hand-wash/",
+        "Feminine Hygiene (222)": "https://www.bigbasket.com/pc/beauty-hygiene/feminine-hygiene/",
+        "Fragrances & Deos (816)": "https://www.bigbasket.com/pc/beauty-hygiene/fragrances-deos/",
+        "Hair Care (1086)": "https://www.bigbasket.com/pc/beauty-hygiene/hair-care/",
+        "Health & Medicine (505)": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/",
+        "Makeup (5646)": "https://www.bigbasket.com/pc/beauty-hygiene/makeup/",
+        "Men's Grooming (636)": "https://www.bigbasket.com/pc/beauty-hygiene/mens-grooming/",
+        "Oral Care (312)": "https://www.bigbasket.com/pc/beauty-hygiene/oral-care/",
+        "Skin Care (2323)": "https://www.bigbasket.com/pc/beauty-hygiene/skin-care/"
+    },
+    "Cleaning & Household": {
+        "root": "https://www.bigbasket.com/cl/cleaning-household/?nc=nb"
+    },
+    "Kitchen, Garden & Pets": {
+        "root": "https://www.bigbasket.com/cl/kitchen-garden-pets/?nc=nb"
+    },
+    "Eggs, Meat & Fish": {
+        "root": "https://www.bigbasket.com/cl/eggs-meat-fish/?nc=nb"
+    },
+    "Gourmet & World Food": {
+        "root": "https://www.bigbasket.com/cl/gourmet-world-food/?nc=nb"
+    },
+    "Baby Care": {
+        "root": "https://www.bigbasket.com/cl/baby-care/?nc=nb"
+    },
+    "View All": {
+        "root": "https://www.bigbasket.com/product/all-categories/"
+    }
+}
