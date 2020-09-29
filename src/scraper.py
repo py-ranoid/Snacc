@@ -1,10 +1,12 @@
 from bs4 import BeautifulSoup as soup
 import selenium, time, os
 import pandas as pd
+import argparse
 import json
 data_path = os.path.join('..','data')
 if not os.path.exists(data_path):
     os.makedirs(data_path)
+
 
 def get_html(url='https://www.bigbasket.com/pc/snacks-branded-foods/snacks-namkeen/', max_pages=60):
     """Gets complete html for a page be iteratively scrolling to the bottom.
@@ -206,4 +208,8 @@ def explore_cat(cat_name = 'Snacks & Branded Foods'):
     all_res_df.to_csv(os.path.join(data_path,'res_cat.csv'))
 
 if __name__ == "__main__":
-    explore_cat()
+    parser = argparse.ArgumentParser(description='Fetches data for a given category of products from BigBasket')
+    parser.add_argument('--category', type=str, default='Snacks & Branded Foods', help='BigBasket category')
+    args = parser.parse_args()
+   
+    explore_cat(args.category)
